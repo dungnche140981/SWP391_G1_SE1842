@@ -1,8 +1,4 @@
-<%-- 
-    Document   : forgetPassword
-    Created on : Sep 17, 2023, 4:29:04 PM
-    Author     : admin
---%>
+
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
